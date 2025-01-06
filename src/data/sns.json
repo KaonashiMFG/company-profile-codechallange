@@ -1,0 +1,27 @@
+[
+    {
+        "socials":"Facebook",
+        "logo": "/sns/facebook.svg",
+        "link": "https://web.facebook.com/RBJ.JPN/?_rdc=1&_rdr"
+    },
+    {
+        "socials":"Youtube",
+        "logo": "/sns/youtube.svg",
+        "link": "https://www.youtube.com/channel/UCwjVm8Nt8RLerLfktg4tC-g"
+    },
+    {
+        "socials":"Whatsapp",
+        "logo": "/sns/whatsapp.svg",
+        "link": "https://api.whatsapp.com/send/?phone=628119058008&text&type=phone_number&app_absent=0"
+    },
+    {
+        "socials":"Tiktok",
+        "logo": "/sns/tiktok.svg",
+        "link": "https://www.tiktok.com/@rbjbintaro?_d=secCgsIARCbDRgBIAMoARI%2BCjycR0X9E7DoXSOvdz9ldQBDq1iaY9k66W8OxtefeDILj4bu3c16J5l6Bo%2ByM6ENtL8uymO9MlCXdjS%2BKWoaAA%3D%3D&language=en&sec_uid=MS4wLjABAAAAI9M39O70_71pxTATKKM9mds5IgrLelcYf7xZOtLVYTRfX43KQ9h934mP4UnEWppb&sec_user_id=MS4wLjABAAAAI9M39O70_71pxTATKKM9mds5IgrLelcYf7xZOtLVYTRfX43KQ9h934mP4UnEWppb&share_app_name=tiktok&share_author_id=6873771733938635778&share_link_id=80449047-2bb6-4dbf-b234-4d329a982930&timestamp=1603428774&u_code=def4k55i0kf6hc&user_id=6873771733938635778&_r=1"
+    },
+    {
+        "socials":"X",
+        "logo": "/sns/x.svg",
+        "link": "https://x.com/IndonesiaRbj"
+    }
+]

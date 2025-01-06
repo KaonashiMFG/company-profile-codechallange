@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Company Profile
 
-## Getting Started
+## nama: rumah bahasa jepang
 
-First, run the development server:
+## fungsi: tempat ngajar
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+disini saya coba ingin buat ulang company profile. mungkin cuma front endnya aja karena back endnya blm belajar
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# HOME PAGE:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# kelar:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+#### 4. Testimonials:
 
-## Learn More
+This section should include testimonials from satisfied customers. Testimonials can help to build trust and credibility with potential customers.
 
-To learn more about Next.js, take a look at the following resources:
+#### 2. Company overview:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This section should provide a more detailed overview of the company, its history, its team, and its culture.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+#### 1. Hero section:
 
-## Deploy on Vercel
+This is the large banner at the top of the page that should feature a high-quality image or video that represents the company's brand. The hero section should also include a brief overview of the company and its mission statement.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### 3. Products or services:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This section should highlight the company's products or services. It should include brief descriptions of each product or service, as well as calls to action that encourage visitors to learn more.
+
+#### 6. Company tagline:
+
+A brief and memorable phrase that captures the essence of the company's brand.
+
+#### 5. Company logo:
+
+The company logo should be prominently displayed in the header or navigation bar.
+
+#### 7. About Us link:
+
+A prominent link to the About Us page.
+
+#### 8. Products or Services link:
+
+A prominent link to the Services page.
+
+# ABOUT US:
+
+#### Company history: [on going]
+
+This section should provide a brief overview of the company's history, its founding, and its milestones.
+
+#### Team:
+
+This section should introduce the company's team members. It should include their names, titles, and a brief description of their experience.
+
+#### Culture:
+
+This section should describe the company's culture and values. It should give visitors a sense of what it's like to work at the company.

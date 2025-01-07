@@ -4,12 +4,16 @@ export function ServicesHomePage() {
   return (
     <>
       <section className="flex flex-col justify-center gap-10 bg-accent text-center text-primary">
-        <div className="p-20">
-          <h1 className="w-full bg-secondary p-5 text-5xl text-primary">
+        <div className="px-5 py-10 md:p-20">
+          {/* Section Title */}
+          <h1 className="w-full bg-secondary p-3 text-2xl md:p-5 md:text-5xl text-primary">
             Our Services
           </h1>
-          <div className="grid grid-cols-2 justify-center">
-            <div className="relative h-72 w-full transform overflow-hidden bg-white shadow-lg transition-transform">
+
+          {/* Services Grid */}
+          <div className="grid gap-5 md:grid-cols-2 md:gap-10 justify-center mt-6">
+            {/* JLPT Service Card */}
+            <div className="relative h-64 w-full transform overflow-hidden bg-white shadow-lg transition-transform md:h-72">
               <Image
                 className="h-full w-full object-cover"
                 src={"/usaha/JLPT.png"}
@@ -19,13 +23,17 @@ export function ServicesHomePage() {
                 priority
               />
               <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-60 p-4 text-white transition-opacity duration-300">
-                <h3 className="text-center text-3xl font-bold">JLPT: N5-N2</h3>
-                <p className="mt-2 text-center text-sm md:text-base">
+                <h3 className="text-center text-lg font-bold md:text-3xl">
+                  JLPT: N5-N2
+                </h3>
+                <p className="mt-2 text-center text-xs md:text-base">
                   Persiapan untuk pembelajaran tes JLPT
                 </p>
               </div>
             </div>
-            <div className="relative h-72 w-full transform overflow-hidden bg-white shadow-lg transition-transform">
+
+            {/* Regular Service Card */}
+            <div className="relative h-64 w-full transform overflow-hidden bg-white shadow-lg transition-transform md:h-72">
               <Image
                 className="h-full w-full object-cover"
                 src={"/usaha/umur.webp"}
@@ -35,9 +43,11 @@ export function ServicesHomePage() {
                 priority
               />
               <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-60 p-4 text-white transition-opacity duration-300">
-                <h3 className="text-center text-3xl font-bold">Regular</h3>
-                <p className="mt-2 text-center text-sm md:text-base">
-                  Berbagai macam prgram kami dari yang untuk anak sampai untuk
+                <h3 className="text-center text-lg font-bold md:text-3xl">
+                  Regular
+                </h3>
+                <p className="mt-2 text-center text-xs md:text-base">
+                  Berbagai macam program kami dari yang untuk anak sampai untuk
                   dewasa/bisnis
                 </p>
               </div>

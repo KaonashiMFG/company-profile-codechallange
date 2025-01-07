@@ -36,7 +36,7 @@ export async function CoreTeams() {
             >
               <div className="relative mx-auto h-20 w-20">
                 <Image
-                  src={`https: ${teams?.fields?.avatar?.fields.file.url}`}
+                  src={`https:${teams?.fields?.avatar?.fields.file.url}`}
                   fill
                   alt="c-suites"
                   className="rounded-full object-cover"

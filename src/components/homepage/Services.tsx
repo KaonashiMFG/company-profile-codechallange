@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export function Services() {
+export function ServicesHomePage() {
   return (
     <>
       <section className="flex flex-col justify-center gap-10 bg-accent text-center text-primary">

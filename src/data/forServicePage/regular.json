@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Program Anak (7-12 tahun)",
+    "price": "Rp. 1.800.000/term",
+    "description": "Belajar Bahasa Jepang yang menyenangkan dan interaktif melalui permainan, lagu, dan aktivitas. Cocok untuk anak-anak yang ingin mengenal bahasa dan budaya Jepang.",
+    "features": [
+      "Metode pembelajaran interaktif",
+      "Latihan percakapan dasar",
+      "Aktivitas budaya",
+      "Penguasaan Hiragana dan Katakana"
+    ],
+    "duration": "3 bulan (24 sesi)"
+  },
+  {
+    "title": "Program Remaja (13-17 tahun)",
+    "price": "Rp. 2.000.000/term",
+    "description": "Pendekatan seimbang untuk belajar Bahasa Jepang dengan fokus pada percakapan, tata bahasa, dan pemahaman budaya.",
+    "features": [
+      "Latihan percakapan",
+      "Pengenalan kanji dasar",
+      "Dasar-dasar tata bahasa",
+      "Integrasi budaya pop Jepang"
+    ],
+    "duration": "3 bulan (24 sesi)"
+  },
+  {
+    "title": "Bahasa Jepang Bisnis",
+    "price": "Rp. 4.000.000/term",
+    "description": "Program khusus untuk para profesional yang membutuhkan keterampilan Bahasa Jepang dalam konteks bisnis.",
+    "features": [
+      "Etika bisnis",
+      "Komunikasi formal",
+      "Keterampilan rapat dan presentasi",
+      "Pemahaman dokumen bisnis"
+    ],
+    "duration": "4 bulan (32 sesi)"
+  }
+]

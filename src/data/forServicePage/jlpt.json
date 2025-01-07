@@ -1,0 +1,58 @@
+[
+  {
+    "level": "Program N5",
+    "title": "Dasar Bahasa Jepang",
+    "price": "Rp. 2.500.000/term",
+    "description": "Cocok untuk pemula absolut. Pelajari percakapan dasar Jepang, hiragana, katakana, dan kanji esensial. Ideal untuk komunikasi sehari-hari dan membangun fondasi yang kuat.",
+    "curriculum": [
+      "Pola tata bahasa dasar dan partikel",
+      "800 kosakata esensial",
+      "100 karakter kanji dasar",
+      "Latihan percakapan sederhana",
+      "Dasar membaca dan menulis"
+    ],
+    "duration": "3 bulan (24 sesi)"
+  },
+  {
+    "level": "Program N4",
+    "title": "Pra-Intermediate Bahasa Jepang",
+    "price": "Rp. 3.000.000/term",
+    "description": "Mengembangkan pengetahuan dasar dengan pola tata bahasa yang lebih kompleks, kosakata yang lebih luas, dan Bahasa Jepang praktis untuk situasi sehari-hari.",
+    "curriculum": [
+      "Struktur tata bahasa tingkat menengah",
+      "1500+ kosakata",
+      "300 karakter kanji",
+      "Bahasa Jepang dasar untuk bisnis",
+      "Latihan membaca yang komprehensif"
+    ],
+    "duration": "4 bulan (32 sesi)"
+  },
+  {
+    "level": "Program N3",
+    "title": "Intermediate Bahasa Jepang",
+    "price": "Rp. 3.500.000/term",
+    "description": "Tingkatkan kemampuan bahasa Jepang Anda dengan tata bahasa yang kompleks, Bahasa Jepang untuk bisnis, serta latihan membaca dan menulis yang intensif.",
+    "curriculum": [
+      "Pola tata bahasa tingkat lanjut",
+      "3000+ kosakata",
+      "500 karakter kanji",
+      "Komunikasi bisnis",
+      "Pemahaman artikel berita"
+    ],
+    "duration": "6 bulan (48 sesi)"
+  },
+  {
+    "level": "Program N2",
+    "title": "Bahasa Jepang Tingkat Lanjutan",
+    "price": "Rp. 4.000.000/term",
+    "description": "Capai kefasihan tingkat lanjutan dengan tata bahasa yang kompleks, komunikasi profesional dalam bahasa Jepang, dan pemahaman mendalam tentang berbagai topik.",
+    "curriculum": [
+      "Tata bahasa dan struktur kalimat kompleks",
+      "6000+ kosakata",
+      "1000 karakter kanji",
+      "Komunikasi bisnis tingkat lanjut",
+      "Membaca novel, koran, dan esai"
+    ],
+    "duration": "8 bulan (64 sesi)"
+  }
+]

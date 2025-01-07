@@ -8,7 +8,7 @@ disini saya coba ingin buat ulang company profile. mungkin cuma front endnya aja
 
 # HOME PAGE:
 
-# kelar:
+## kelar:
 
 #### 4. Testimonials:
 
@@ -44,14 +44,22 @@ A prominent link to the Services page.
 
 # ABOUT US:
 
-#### Company history: [on going]
-
-This section should provide a brief overview of the company's history, its founding, and its milestones.
-
-#### Team:
+## kelar:
+#### Team
 
 This section should introduce the company's team members. It should include their names, titles, and a brief description of their experience.
 
-#### Culture:
+#### Company history
+
+This section should provide a brief overview of the company's history, its founding, and its milestones.
+
+#### Culture
 
 This section should describe the company's culture and values. It should give visitors a sense of what it's like to work at the company.
+
+# TEAMS PAGE:
+
+The Teams page typically serves as a hub for showcasing the company's team members, their expertise, and their contact information. 
+
+# SERVICES PAGE
+The Services page should provide a comprehensive overview of the company's products or services. It should include clear and concise descriptions of each service, along with pricing information if applicable. It should also include testimonials from satisfied customers.

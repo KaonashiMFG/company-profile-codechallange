@@ -8,24 +8,25 @@ const client = contentful.createClient({
 
 export async function getEntries({
   content_type,
-  fields_popular,
+  fields_core,
   fields_slug,
   fields_categories,
+
 }: {
   content_type: string;
-  fields_popular?: boolean;
+  fields_core?: boolean;
   fields_slug?: string;
   fields_categories?: string;
 }) {
   try {
     const data = await client.getEntries({
       content_type: content_type,
-      "fields.popular": fields_popular,
+      "fields.core": fields_core,
       "fields.slug": fields_slug,
       "fields.categories": fields_categories,
     });
 
-    return data.items;
+    return data.items;  
   } catch (error) {
     console.error(error);
     return null;

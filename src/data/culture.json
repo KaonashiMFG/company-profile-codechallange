@@ -1,0 +1,22 @@
+[
+    {
+        "title":"Dedikasi kepada Siswa",
+        "jargon":"Kami percaya bahwa setiap siswa memiliki potensi untuk berkembang.",
+        "image":"/culture/dedikasi.avif"
+    },
+    {
+        "title":"Kolaborasi Tim",
+        "jargon":"Dengan tim kecil, setiap orang memainkan peran penting.",
+        "image":"/culture/kolaborasi.avif"
+    },
+    {
+        "title":"Sederhana namun Efektif",
+        "jargon":"Sebagai sebuah perusahaan dengan sumber daya terbatas, kami menekankan efisiensi dan kreativitas dalam menghadapi tantangan.",
+        "image":"/culture/efektif.avif"
+    },
+    {
+        "title":"Semangat Belajar",
+        "jargon":"Sebagai lembaga yang berfokus pada pendidikan, kami juga berkomitmen untuk terus belajar dan berkembang.",
+        "image":"/culture/semangat.avif"
+    }
+]

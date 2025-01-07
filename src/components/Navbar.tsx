@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import Link from "next/link";
 import Image from "next/image";
@@ -16,17 +16,7 @@ export default function Navbar() {
     <div className="relative bg-secondary">
       {/* Desktop Navbar */}
       <div className="hidden h-14 items-center justify-between px-4 lg:flex lg:px-8 xl:px-16 2xl:px-24">
-        {/* Left Links */}
-        <div className="flex items-center gap-8 xl:gap-28">
-          <Link href="/about" className="nav">
-            About
-          </Link>
-          <Link href="/services" className="nav">
-            Services
-          </Link>
-        </div>
-
-        {/* Center Logo */}
+        {/* logo */}
         <div className="flex h-full items-center justify-center">
           <Link href={"/"}>
             <div className="flex h-28 w-28 overflow-hidden rounded-full border-2 border-accent bg-primary xl:h-36 xl:w-36">
@@ -41,13 +31,15 @@ export default function Navbar() {
           </Link>
         </div>
 
-        {/* Right Links */}
-        <div className="flex items-center gap-8 xl:gap-28">
-          <Link href="/gallery" className="nav">
-            Gallery
+        <div className="flex items-center gap-8 xl:gap-16">
+          <Link href="/about" className="nav">
+            About
           </Link>
-          <Link href="/contact" className="nav">
-            Contacts
+          <Link href="/services" className="nav">
+            Services
+          </Link>
+          <Link href="/teams" className="nav">
+            Teams
           </Link>
         </div>
       </div>
@@ -100,13 +92,7 @@ export default function Navbar() {
               >
                 Services
               </Link>
-              <Link
-                href="/gallery"
-                className="nav block py-2 hover:text-accent"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                Gallery
-              </Link>
+
               <Link
                 href="/contacts"
                 className="nav block py-2 hover:text-accent"

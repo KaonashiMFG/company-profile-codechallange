@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export function Overview() {
   return (
     <>
@@ -12,7 +10,6 @@ export function Overview() {
           sampai dengan kelas intensif untuk karyawan dan kelas khusus untuk
           persiapan mengikuti ujian JLPT.
         </p>
-        <Link href={"/about"} className="text-2xl rounded-full p-1 border-blue-700 border-2 w-40 flex items-center justify-center bg-blue-300">Read More</Link>
       </section>
     </>
   );

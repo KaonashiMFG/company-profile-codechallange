@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
 
 module.exports = {
   images: {
-    domains: ["mlyhahhwafqm.i.optimole.com", "images.unsplash.com"]
+    domains: ["mlyhahhwafqm.i.optimole.com", "images.unsplash.com", "images.ctfassets.net", "%20"]
   },
 }
 

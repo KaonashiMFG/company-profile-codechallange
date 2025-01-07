@@ -6,4 +6,8 @@
   .nav {
     @apply flex min-w-20 items-center justify-center rounded-3xl bg-accent p-1 text-primary
   }
+
+  .historyCard {
+    @apply flex flex-col bg-accent p-5 text-primary rounded-md gap-4 shadow-md md:p-10;
+  }  
 }
